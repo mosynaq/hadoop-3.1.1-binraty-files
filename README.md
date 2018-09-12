@@ -2,4 +2,4 @@
 
 I built this since Apache does not provide binaries for the above-mentioned platform. These files can save lots of hours I lost to build them.
 
-Feel free too use theme!
+Feel free too use them!
